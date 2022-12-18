@@ -72,9 +72,10 @@ capitulo 8.-
 ![image](https://user-images.githubusercontent.com/117742027/208302256-b428fcb8-654d-47a0-8dff-031c4d29e87a.png)
 ![image](https://user-images.githubusercontent.com/117742027/208302263-0f5f8c4c-f7e4-45fa-be7a-c023062dd947.png)
 ![image](https://user-images.githubusercontent.com/117742027/208302284-8fa4c178-ebfe-41e3-9b76-938dde20f871.png)
-
-
-
+![image](https://user-images.githubusercontent.com/117742027/208302314-bb728222-1de7-4c06-b8e3-cda4c8e6ab1c.png)
+![image](https://user-images.githubusercontent.com/117742027/208302322-6473740c-9f55-476a-b37f-9c27e7b53c3b.png)
+![image](https://user-images.githubusercontent.com/117742027/208302329-b4c0b415-051b-4c42-84c4-59b5527905af.png)
+![image](https://user-images.githubusercontent.com/117742027/208302335-c77b70b7-3d88-4745-b719-73e5cba67c45.png)
 
 
 4.-Video : https://youtu.be/WjBZZQbcP-Q
@@ -92,3 +93,7 @@ capitulo 8.-
 Floyd , Thomas L. (2007) Principios de los circuitos electronicos. Pearson educacion capitulo 5 y 6 
 
 Circuitos electronicos. (2016, 02 septiembre). Fundamentos de Los Circuitos Eléctricos. https://fundamentoscircuitoselectricos.wordpress.com/circuitos-electronicos/
+
+Picuino. (s. f.). Serie y paralelo - Electricidad y electrónica - Picuino. Picuino.com. Recuperado 13 de julio de 2021, de https://www.picuino.com/es/electric-serie-paralelo.html
+
+Métodos de análisis de circuitos. (2015, 29 julio). Fundamentos de Los Circuitos Eléctricos. https://fundamentoscircuitoselectricos.wordpress.com/metodos-de-analisis-de-circuitos/
