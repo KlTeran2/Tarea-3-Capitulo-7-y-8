@@ -25,20 +25,19 @@ Objetivos específicos: • Evaluar los circuitos en paralelo y en serie y como 
 
 2.- Marco Teórico
 
-Capitulo 5.-
+Capitulo 7.-
+![image](https://user-images.githubusercontent.com/117742027/208300188-10f9c0ed-0030-4136-bba6-66c31d9a6844.png)
+![image](https://user-images.githubusercontent.com/117742027/208300356-57380f94-5d8e-49ac-9ca4-721f169a381f.png)
+![image](https://user-images.githubusercontent.com/117742027/208300361-309d8698-cc41-458b-a0f8-912fccbb0103.png)
+![image](https://user-images.githubusercontent.com/117742027/208300366-0a304d6a-510d-47c9-b9cc-aa553b6c0e0c.png)
+![image](https://user-images.githubusercontent.com/117742027/208300443-1361c8e2-1da6-4a6a-8e15-216c27093196.png)
+![image](https://user-images.githubusercontent.com/117742027/208300530-6c875985-e430-4733-bf74-3bdfe2ba20eb.png)
 
-![image](https://user-images.githubusercontent.com/117742027/204002477-bdc1d734-4b92-494a-8d17-a31dea2489a4.png)
-![image](https://user-images.githubusercontent.com/117742027/204002562-a7c171a3-666e-43bc-a9a6-8fe3d4a45e55.png)
-![image](https://user-images.githubusercontent.com/117742027/204002575-8950cb01-d573-4abd-b073-dcad5163c0f1.png)
-![image](https://user-images.githubusercontent.com/117742027/204002595-145ad52b-b4c6-40af-a573-6731b13279c1.png)
-![image](https://user-images.githubusercontent.com/117742027/204002604-6a00702a-a371-4e27-9e72-a6628b23f8af.png)
+capitulo 8.-
+![image](https://user-images.githubusercontent.com/117742027/208300864-deb105dd-a028-40aa-b12f-83888cd69b53.png)
 
-capitulo 6.-
 
-![image](https://user-images.githubusercontent.com/117742027/204002641-680c5916-ec6e-48b6-b462-96878850f817.png)
-![image](https://user-images.githubusercontent.com/117742027/204002711-85dd34ce-e88f-44ec-8c9c-1be28e9ec091.png)
-![image](https://user-images.githubusercontent.com/117742027/204002750-48b67df0-0326-4b2b-882d-0770c7528e6a.png)
-![image](https://user-images.githubusercontent.com/117742027/204002771-771926dd-48bc-413e-a7b3-410ceb0a7ea2.png)
+
 
 
 
