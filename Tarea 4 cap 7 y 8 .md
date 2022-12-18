@@ -31,7 +31,7 @@ Capitulo 7.-
 ![image](https://user-images.githubusercontent.com/117742027/208300361-309d8698-cc41-458b-a0f8-912fccbb0103.png)
 ![image](https://user-images.githubusercontent.com/117742027/208300366-0a304d6a-510d-47c9-b9cc-aa553b6c0e0c.png)
 ![image](https://user-images.githubusercontent.com/117742027/208300443-1361c8e2-1da6-4a6a-8e15-216c27093196.png)
-![image](https://user-images.githubusercontent.com/117742027/208300530-6c875985-e430-4733-bf74-3bdfe2ba20eb.png)
+
 
 capitulo 8.-
 ![image](https://user-images.githubusercontent.com/117742027/208300864-deb105dd-a028-40aa-b12f-83888cd69b53.png)
