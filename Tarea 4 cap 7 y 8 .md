@@ -4,7 +4,7 @@
                                                                      
                                                        Fundamentos de Circuitos Electrónicos
                                                        
-                                                                     Tarea#3
+                                                                     Tarea#4
 Ing. Darwin Alulema
 
 Estudiante: Kail Lenin Terán Fierro
@@ -15,7 +15,7 @@ NRC:10067
 
 Objetivo Principal:
 
-Aprender y comprender los capítulos 5 y 6 en conocimiento bde fuentes de potencia y ley de ohm, mediante métodos adquiridos en clases, para aplicarlos en la resolución de problema y ejercicios propuestos.
+Aprender y comprender los capítulos 7 y 8 en conocimiento bde fuentes de potencia y ley de ohm, mediante métodos adquiridos en clases, para aplicarlos en la resolución de problema y ejercicios propuestos.
 
 Objetivos específicos: • Evaluar los circuitos en paralelo y en serie y como resolverlos que hemos ido analizando a lo largo de cada clase impartida por el ingeniero.
 
@@ -82,15 +82,15 @@ capitulo 8.-
 
 5.- Conclusiones:
 
-1.- Puedo decir que es muy  util el conocer la ley de ohm para poder calcular la corriente , voltaje o resistencias en los circuitos tanto en serie como en paralelo ademas de aplicar asi mismo la ley de kirchhoff .
+1.- Puedo decir que es muy  util el conocer los teoremasd e norton y thevenin  para poder calcular la corriente , voltaje o resistencias en los circuitos tanto en serie como en paralelo ademas de aplicar asi mismo la potencia maxima .
 
-2.- tambien es importante conocer como identificar y solventar errores , cortos tanto en las series como en las ramas ademas de saber como localizar estos fallos.
+2.- tambien es importante conocer como identificar y solventar errores , cortos tanto en las series como en las ramas ademas de saber como localizar estos fallos en los inductores de corriente alterna.
 
-3.- el aprendizaje recopilado fue muy grande y util para esta materia almenos como bases ya que sirvio para comprender algunas cosas que antes no se comprendian del todo ademas de aprender incluso sobre el consumo electrico en kW/h.
+3.- el aprendizaje recopilado fue muy grande y util para esta materia almenos como bases ya que sirvio para comprender algunas cosas que antes no se comprendian del todo ademas de aprender sobre los circuitos en serie y en paralelo ademas de los mixtos .
 
 6.- Bibliografia
 
-Floyd , Thomas L. (2007) Principios de los circuitos electronicos. Pearson educacion capitulo 5 y 6 
+Floyd , Thomas L. (2007) Principios de los circuitos electronicos. Pearson educacion capitulo 7 y 8 
 
 Circuitos electronicos. (2016, 02 septiembre). Fundamentos de Los Circuitos Eléctricos. https://fundamentoscircuitoselectricos.wordpress.com/circuitos-electronicos/
 
